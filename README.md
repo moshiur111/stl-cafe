@@ -71,7 +71,7 @@ Let’s grow **STL Cafe** together! 🚀
 ## 🔗 Stay Connected
 
 - 🔥 [GitHub](https://github.com/moshiur111)  
-- 🐦 [Twitter / X](https://twitter.com/moshiur_dev)
+- 🐦 [Twitter / X](https://x.com/moshiur_dev)
 - 💼 [LinkedIn](https://linkedin.com/in/moshiur111)  
 - ☕🚀 [DSA Cafe (Coming Soon)](#)
 
